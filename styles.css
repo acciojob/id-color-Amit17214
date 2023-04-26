@@ -2,6 +2,10 @@
 #yellow{
 	background-color:yellow;
 	border-width: 1px;
+	border-top-width:3px;
+	border-bottom-width:3px;
+	border-left-width:3px;
+	border-right-width:3px;
 	border-color: green;
 	border-top-style:solid;
 	border-bottom-style:solid;
@@ -12,6 +16,10 @@
 #red{
 	background-color:red;
 	border-width: 1px;
+	border-top-width:3px;
+	border-bottom-width:3px;
+	border-left-width:3px;
+	border-right-width:3px;
 	border-color: black;
 	border-top-style:solid;
 	border-bottom-style:solid;
@@ -22,6 +30,10 @@
 #green{
 	background-color:green;
 	border-width: 1px;
+	border-top-width:3px;
+	border-bottom-width:3px;
+	border-left-width:3px;
+	border-right-width:3px;
 	border-color: yellow;
 	border-top-style:solid;
 	border-bottom-style:solid;
